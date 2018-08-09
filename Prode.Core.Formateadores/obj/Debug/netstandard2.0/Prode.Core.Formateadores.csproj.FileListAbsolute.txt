@@ -1,0 +1,12 @@
+D:\Documentos\VisualStudioProjects\aspnetcore-mio\Prode\Prode.Core.Formateadores\bin\Debug\netstandard2.0\Prode.Core.Formateadores.deps.json
+D:\Documentos\VisualStudioProjects\aspnetcore-mio\Prode\Prode.Core.Formateadores\bin\Debug\netstandard2.0\Prode.Core.Formateadores.dll
+D:\Documentos\VisualStudioProjects\aspnetcore-mio\Prode\Prode.Core.Formateadores\bin\Debug\netstandard2.0\Prode.Core.Formateadores.pdb
+D:\Documentos\VisualStudioProjects\aspnetcore-mio\Prode\Prode.Core.Formateadores\bin\Debug\netstandard2.0\Prode.Core.Entidades.Interfaces.dll
+D:\Documentos\VisualStudioProjects\aspnetcore-mio\Prode\Prode.Core.Formateadores\bin\Debug\netstandard2.0\Prode.Core.Entidades.Interfaces.pdb
+D:\Documentos\VisualStudioProjects\aspnetcore-mio\Prode\Prode.Core.Formateadores\obj\Debug\netstandard2.0\Prode.Core.Formateadores.csprojAssemblyReference.cache
+D:\Documentos\VisualStudioProjects\aspnetcore-mio\Prode\Prode.Core.Formateadores\obj\Debug\netstandard2.0\Prode.Core.Formateadores.csproj.CoreCompileInputs.cache
+D:\Documentos\VisualStudioProjects\aspnetcore-mio\Prode\Prode.Core.Formateadores\obj\Debug\netstandard2.0\Prode.Core.Formateadores.AssemblyInfoInputs.cache
+D:\Documentos\VisualStudioProjects\aspnetcore-mio\Prode\Prode.Core.Formateadores\obj\Debug\netstandard2.0\Prode.Core.Formateadores.AssemblyInfo.cs
+D:\Documentos\VisualStudioProjects\aspnetcore-mio\Prode\Prode.Core.Formateadores\obj\Debug\netstandard2.0\Prode.Core.Formateadores.csproj.CopyComplete
+D:\Documentos\VisualStudioProjects\aspnetcore-mio\Prode\Prode.Core.Formateadores\obj\Debug\netstandard2.0\Prode.Core.Formateadores.dll
+D:\Documentos\VisualStudioProjects\aspnetcore-mio\Prode\Prode.Core.Formateadores\obj\Debug\netstandard2.0\Prode.Core.Formateadores.pdb

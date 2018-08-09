@@ -1,0 +1,9 @@
+D:\Documentos\VisualStudioProjects\aspnetcore-mio\Prode\Prode.Core.Entidades.Interfaces\bin\Debug\netstandard2.0\Prode.Core.Entidades.Interfaces.deps.json
+D:\Documentos\VisualStudioProjects\aspnetcore-mio\Prode\Prode.Core.Entidades.Interfaces\bin\Debug\netstandard2.0\Prode.Core.Entidades.Interfaces.dll
+D:\Documentos\VisualStudioProjects\aspnetcore-mio\Prode\Prode.Core.Entidades.Interfaces\bin\Debug\netstandard2.0\Prode.Core.Entidades.Interfaces.pdb
+D:\Documentos\VisualStudioProjects\aspnetcore-mio\Prode\Prode.Core.Entidades.Interfaces\obj\Debug\netstandard2.0\Prode.Core.Entidades.Interfaces.csprojAssemblyReference.cache
+D:\Documentos\VisualStudioProjects\aspnetcore-mio\Prode\Prode.Core.Entidades.Interfaces\obj\Debug\netstandard2.0\Prode.Core.Entidades.Interfaces.csproj.CoreCompileInputs.cache
+D:\Documentos\VisualStudioProjects\aspnetcore-mio\Prode\Prode.Core.Entidades.Interfaces\obj\Debug\netstandard2.0\Prode.Core.Entidades.Interfaces.AssemblyInfoInputs.cache
+D:\Documentos\VisualStudioProjects\aspnetcore-mio\Prode\Prode.Core.Entidades.Interfaces\obj\Debug\netstandard2.0\Prode.Core.Entidades.Interfaces.AssemblyInfo.cs
+D:\Documentos\VisualStudioProjects\aspnetcore-mio\Prode\Prode.Core.Entidades.Interfaces\obj\Debug\netstandard2.0\Prode.Core.Entidades.Interfaces.dll
+D:\Documentos\VisualStudioProjects\aspnetcore-mio\Prode\Prode.Core.Entidades.Interfaces\obj\Debug\netstandard2.0\Prode.Core.Entidades.Interfaces.pdb
