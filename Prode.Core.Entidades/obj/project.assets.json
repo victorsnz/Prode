@@ -198,11 +198,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Documentos\\VisualStudioProjects\\aspnetcore-mio\\Prode\\Prode.Core.Entidades\\Prode.Core.Entidades.csproj",
+      "projectUniqueName": "D:\\Visual Studio Projects\\aspnetcore-mio\\Prode\\Prode.Core.Entidades\\Prode.Core.Entidades.csproj",
       "projectName": "Prode.Core.Entidades",
-      "projectPath": "D:\\Documentos\\VisualStudioProjects\\aspnetcore-mio\\Prode\\Prode.Core.Entidades\\Prode.Core.Entidades.csproj",
+      "projectPath": "D:\\Visual Studio Projects\\aspnetcore-mio\\Prode\\Prode.Core.Entidades\\Prode.Core.Entidades.csproj",
       "packagesPath": "C:\\Users\\Victor\\.nuget\\packages\\",
-      "outputPath": "D:\\Documentos\\VisualStudioProjects\\aspnetcore-mio\\Prode\\Prode.Core.Entidades\\obj\\",
+      "outputPath": "D:\\Visual Studio Projects\\aspnetcore-mio\\Prode\\Prode.Core.Entidades\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -221,8 +221,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "D:\\Documentos\\VisualStudioProjects\\aspnetcore-mio\\Prode\\Prode.Core.Entidades.Interfaces\\Prode.Core.Entidades.Interfaces.csproj": {
-              "projectPath": "D:\\Documentos\\VisualStudioProjects\\aspnetcore-mio\\Prode\\Prode.Core.Entidades.Interfaces\\Prode.Core.Entidades.Interfaces.csproj"
+            "D:\\Visual Studio Projects\\aspnetcore-mio\\Prode\\Prode.Core.Entidades.Interfaces\\Prode.Core.Entidades.Interfaces.csproj": {
+              "projectPath": "D:\\Visual Studio Projects\\aspnetcore-mio\\Prode\\Prode.Core.Entidades.Interfaces\\Prode.Core.Entidades.Interfaces.csproj"
             }
           }
         }

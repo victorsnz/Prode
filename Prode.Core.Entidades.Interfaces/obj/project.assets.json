@@ -182,11 +182,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Documentos\\VisualStudioProjects\\aspnetcore-mio\\Prode\\Prode.Core.Entidades.Interfaces\\Prode.Core.Entidades.Interfaces.csproj",
+      "projectUniqueName": "D:\\Visual Studio Projects\\aspnetcore-mio\\Prode\\Prode.Core.Entidades.Interfaces\\Prode.Core.Entidades.Interfaces.csproj",
       "projectName": "Prode.Core.Entidades.Interfaces",
-      "projectPath": "D:\\Documentos\\VisualStudioProjects\\aspnetcore-mio\\Prode\\Prode.Core.Entidades.Interfaces\\Prode.Core.Entidades.Interfaces.csproj",
+      "projectPath": "D:\\Visual Studio Projects\\aspnetcore-mio\\Prode\\Prode.Core.Entidades.Interfaces\\Prode.Core.Entidades.Interfaces.csproj",
       "packagesPath": "C:\\Users\\Victor\\.nuget\\packages\\",
-      "outputPath": "D:\\Documentos\\VisualStudioProjects\\aspnetcore-mio\\Prode\\Prode.Core.Entidades.Interfaces\\obj\\",
+      "outputPath": "D:\\Visual Studio Projects\\aspnetcore-mio\\Prode\\Prode.Core.Entidades.Interfaces\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

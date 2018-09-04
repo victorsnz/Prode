@@ -12286,11 +12286,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Documentos\\VisualStudioProjects\\aspnetcore-mio\\Prode\\ProdeWebApp\\ProdeWebApp.csproj",
+      "projectUniqueName": "D:\\Visual Studio Projects\\aspnetcore-mio\\Prode\\ProdeWebApp\\ProdeWebApp.csproj",
       "projectName": "ProdeWebApp",
-      "projectPath": "D:\\Documentos\\VisualStudioProjects\\aspnetcore-mio\\Prode\\ProdeWebApp\\ProdeWebApp.csproj",
+      "projectPath": "D:\\Visual Studio Projects\\aspnetcore-mio\\Prode\\ProdeWebApp\\ProdeWebApp.csproj",
       "packagesPath": "C:\\Users\\Victor\\.nuget\\packages\\",
-      "outputPath": "D:\\Documentos\\VisualStudioProjects\\aspnetcore-mio\\Prode\\ProdeWebApp\\obj\\",
+      "outputPath": "D:\\Visual Studio Projects\\aspnetcore-mio\\Prode\\ProdeWebApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -12309,14 +12309,14 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "D:\\Documentos\\VisualStudioProjects\\aspnetcore-mio\\Prode\\Prode.Core.Entidades.Interfaces\\Prode.Core.Entidades.Interfaces.csproj": {
-              "projectPath": "D:\\Documentos\\VisualStudioProjects\\aspnetcore-mio\\Prode\\Prode.Core.Entidades.Interfaces\\Prode.Core.Entidades.Interfaces.csproj"
+            "D:\\Visual Studio Projects\\aspnetcore-mio\\Prode\\Prode.Core.Entidades.Interfaces\\Prode.Core.Entidades.Interfaces.csproj": {
+              "projectPath": "D:\\Visual Studio Projects\\aspnetcore-mio\\Prode\\Prode.Core.Entidades.Interfaces\\Prode.Core.Entidades.Interfaces.csproj"
             },
-            "D:\\Documentos\\VisualStudioProjects\\aspnetcore-mio\\Prode\\Prode.Core.Entidades\\Prode.Core.Entidades.csproj": {
-              "projectPath": "D:\\Documentos\\VisualStudioProjects\\aspnetcore-mio\\Prode\\Prode.Core.Entidades\\Prode.Core.Entidades.csproj"
+            "D:\\Visual Studio Projects\\aspnetcore-mio\\Prode\\Prode.Core.Entidades\\Prode.Core.Entidades.csproj": {
+              "projectPath": "D:\\Visual Studio Projects\\aspnetcore-mio\\Prode\\Prode.Core.Entidades\\Prode.Core.Entidades.csproj"
             },
-            "D:\\Documentos\\VisualStudioProjects\\aspnetcore-mio\\Prode\\Prode.Core.Formateadores\\Prode.Core.Formateadores.csproj": {
-              "projectPath": "D:\\Documentos\\VisualStudioProjects\\aspnetcore-mio\\Prode\\Prode.Core.Formateadores\\Prode.Core.Formateadores.csproj"
+            "D:\\Visual Studio Projects\\aspnetcore-mio\\Prode\\Prode.Core.Formateadores\\Prode.Core.Formateadores.csproj": {
+              "projectPath": "D:\\Visual Studio Projects\\aspnetcore-mio\\Prode\\Prode.Core.Formateadores\\Prode.Core.Formateadores.csproj"
             }
           }
         }
